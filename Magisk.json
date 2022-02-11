@@ -1,12 +1,12 @@
 {
   "magisk": {
     "version": "Telegram : @kadir_civelk",
-    "versionCode": "24100",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v24.1/Magisk-v24.1.apk",
+    "versionCode": "23000",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk",
     "note": "https://raw.githubusercontent.com/kadircvlk/magisk/24100.md"
   },
   "stub": {
-    "versionCode": "24",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v24.1/Magisk-v24.1.apk"
+    "versionCode": "21",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
   }
 }
